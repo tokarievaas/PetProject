@@ -1,0 +1,15 @@
+.container{
+	font-family: "Comic Sans MS";
+}
+.control-label{
+	margin-bottom: 5px;
+}
+.col-sm-10{
+	margin-bottom: 5px;
+}
+.form-control{
+	width: 50%;
+}
+#media-name{
+	margin-left: 100px;
+}
