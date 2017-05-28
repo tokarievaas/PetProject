@@ -36,12 +36,34 @@
 
     <div class="tab-content">
     <div id="about" class="tab-pane fade in active">
-      <h3>ABOUT</h3>
+
 	  <p>
 	  Hi there!
 	  This page will give you a little more info about me and my project.
 	  </p>
-      <!-- <iframe src = "loginForm.html" width = "100%" height = "500" style = "border: 0"></iframe> -->
+
+      <p>
+      I decided to try something realy new and as far as I always had interest in programming and had some knowledge in Java I came to an idea of creating my own home java-project.
+      <br>
+      So here it is: this page allows for registered users to create their home collection of favorite movies and music performers. By collection I mean that user can create lists only - not actual media content: we do not want to create some pirate source, ok?
+      For not registered users some example list is displayed just to see, what it is like. Registered users can create (add, delete and edit) their own collections.
+      <br>
+      <br>
+      My name is Oleksandra Tokarieva and I am juniour java developer.<br>
+      I have graduated from National Mining University in Ukraine in 2007, master degree in Computer-assisted control systems and automation, Information Technologies department.<br>
+      <br>
+      This first home project has been created using the following technologies:<br>
+      	- Spring MVC framework;<br>
+      	- Freemarker template framework;<br>
+      	- Bootstrap framework;<br>
+      	-
+      I used Maven for building my project.<br>
+      I was guided by seniour java developer.<br>
+      </p>
+
+      <form method="get" action="Tokarieva_resume_java_draaaaaft.docx">
+        <button type="submit" class = "btn btn-primary">My full resume can be downloaded here.</button>
+      </form>
     </div>
     <div id="contentm" class="tab-pane fade">
       <h3>Content</h3>
