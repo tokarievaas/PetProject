@@ -38,32 +38,56 @@
     <div id="about" class="tab-pane fade in active">
 
 	  <p>
-	  Hi there!
-	  This page will give you a little more info about me and my project.
+	  Hi, I’m Aleksandra!
 	  </p>
 
       <p>
-      I decided to try something realy new and as far as I always had interest in programming and had some knowledge in Java I came to an idea of creating my own home java-project.
-      <br>
-      So here it is: this page allows for registered users to create their home collection of favorite movies and music performers. By collection I mean that user can create lists only - not actual media content: we do not want to create some pirate source, ok?
-      For not registered users some example list is displayed just to see, what it is like. Registered users can create (add, delete and edit) their own collections.
+      I’ve always been quite a fan of programming, but somehow my career took a different path at first. And then my husband received a job offer abroad and I’ve got some free time while we were moving countries. So I decided to become a software developer and this little project is a result of my study and supposed to prove that I really can do IT.
       <br>
       <br>
-      My name is Oleksandra Tokarieva and I am juniour java developer.<br>
-      I have graduated from National Mining University in Ukraine in 2007, master degree in Computer-assisted control systems and automation, Information Technologies department.<br>
+      The main idea behind this project is to create a portal where people would be able to create and maintain collections of their favorite media titles, such as movies or music. Only titles and some related data, not content.
       <br>
-      This first home project has been created using the following technologies:<br>
-      	- Spring MVC framework;<br>
-      	- Freemarker template framework;<br>
-      	- Bootstrap framework;<br>
-      	-
-      I used Maven for building my project.<br>
-      I was guided by seniour java developer.<br>
+      Of course, at this stage I don’t feel that I have enough knowledge and/or time to create something really amazing. This is just a Proof Of Concept with very limited functionality.
+      <br>
+      So, the limited functionality allows:
+      <br>
+      <div id = "functionflity">
+        <ol>
+            <li>Unregistered users to view the page about me and the media collection of the Demo user.</li>
+            <li>Register and log in to be able to start maintaining your own collections: to add, modify and delete new items.</li>
+        </ol>
+      </div>
+      <br>
+      I didn’t do this project fully myself with no help. My husband, who is a software developer, was my tutor, provided topics to learn, tasks to solve, helped me with planning, performed code review and helped me multiple times when I stuck. But still all the coding I have done myself (and really proud of it :) ). I realize that coding under guidance is not such a major part, but again I have quite a road in front of me before I become a strong independent professional.
+      If you are interested in seeing the code I’ve committed it to Github here.
+      <br>
+      Also, if you want to see the list of technologies used in the project, <a href="#technologies" data-toggle="collapse">look inside</a>.
+
+      </p>
+      <div id = "technologies" class="collapse">
+        <ul>
+            <li>Spring Boot (WebMVC +JPA);</li>
+            <li>Freemarker templates;</li>
+            <li>Bootstrap framework;</li>
+            <li>H2 DataBase;</li>
+            <li>TestNG;</li>
+            <li>Maven;</li>
+            <li>Git;</li>
+        </ul>
+      </div>
+      <br>
+      <p> Finally, a little bit about me. <br>
+      You can read my resume below as well as download a <a href = "Tokarieva_resume_java_draaaaaft.docx">Word</a> or <a href = "Tokarieva_resume_java_draaaaaft.docx">PDF</a> version of it.
+      This is a link to my LinkedIn Page. <br>
+      My contacts: phone, email. <br>
+      Sincerely yours, <br>
+      Aleksandra (aka Oleksandra or Sasha) Tokarieva<br>
+      <a href = "#resume" data-toggle="collapse">View my resume.</a>
       </p>
 
-      <form method="get" action="Tokarieva_resume_java_draaaaaft.docx">
-        <button type="submit" class = "btn btn-primary">My full resume can be downloaded here.</button>
-      </form>
+      <div id = "resume" class = "collapse">
+        resume
+      </div>
     </div>
     <div id="contentm" class="tab-pane fade">
       <h3>Content</h3>
