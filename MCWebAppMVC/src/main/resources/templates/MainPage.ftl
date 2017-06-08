@@ -36,7 +36,9 @@
 
     <div class="tab-content">
     <div id="about" class="tab-pane fade in active">
-
+        <form action = "/initUser">
+            <button>Button</button>
+        </form>
 	  <p>
 	  Hi, I’m Aleksandra!
 	  </p>
@@ -86,7 +88,11 @@
       </p>
 
       <div id = "resume" class = "collapse">
-        resume
+        <h3 style="color:#1f497d; font-family:calibri"><b>TECHNICAL SKILLS</b></h3>
+        <h3 style="color:#1f497d; font-family:calibri"><b>EDUCATION</b></h3>
+        <h3 style="color:#1f497d; font-family:calibri"><b>MAIN ACCOMPLISHMENTS</b></h3>
+        <h3 style="color:#1f497d; font-family:calibri"><b>WORK EXPERIENCE</b></h3>
+        <h3 style="color:#1f497d; font-family:calibri"><b>LANGUAGES</b></h3>
       </div>
     </div>
     <div id="contentm" class="tab-pane fade">
