@@ -36,9 +36,7 @@
 
     <div class="tab-content">
     <div id="about" class="tab-pane fade in active">
-        <form action = "/initUser">
-            <button>Button</button>
-        </form>
+
 	  <p>
 	  Hi, I’m Aleksandra!
 	  </p>
