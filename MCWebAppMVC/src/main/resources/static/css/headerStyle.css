@@ -25,6 +25,22 @@
     padding: 1em;
 }
 
-#resume{
+.panel-title{
+    color:#1f497d;
+    font-weight: bold;
+}
 
+.skills{
+    padding: 5px;
+}
+
+.job-title{
+    background-color: #b3daff;
+    font-weight: bold;
+    font-size: 105%;
+}
+
+.univercity{
+    font-weight: bold;
+    background-color: #b3daff;
 }

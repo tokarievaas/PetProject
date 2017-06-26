@@ -77,7 +77,7 @@
       </div>
       <br>
       <p> Finally, a little bit about me. <br>
-      You can read my resume below as well as download a <a href = "Tokarieva_resume_java_draaaaaft.docx">Word</a> or <a href = "Tokarieva_resume_java_draaaaaft.docx">PDF</a> version of it.
+      You can read my resume below as well as download a <a href = "Tokarieva_resume_java.docx">Word</a> or <a href = "Tokarieva_resume_java.docx">PDF</a> version of it.
       This is a link to my LinkedIn Page. <br>
       My contacts: phone, email. <br>
       Sincerely yours, <br>
@@ -85,12 +85,110 @@
       <a href = "#resume" data-toggle="collapse">View my resume.</a>
       </p>
 
-      <div id = "resume" class = "collapse">
-        <h3 style="color:#1f497d; font-family:calibri"><b>TECHNICAL SKILLS</b></h3>
-        <h3 style="color:#1f497d; font-family:calibri"><b>EDUCATION</b></h3>
-        <h3 style="color:#1f497d; font-family:calibri"><b>MAIN ACCOMPLISHMENTS</b></h3>
-        <h3 style="color:#1f497d; font-family:calibri"><b>WORK EXPERIENCE</b></h3>
-        <h3 style="color:#1f497d; font-family:calibri"><b>LANGUAGES</b></h3>
+      <div id = "resume" class = "collapse" style="color:#1f497d; font-family:calibri">
+        <p style="color: black; font-size: 150%">Junior java developer with more than a year of experience in L2 technical support. Worked in a client-facing environment for over 3 years. Continuously work on self-education. Diligent and responsible.</p>
+
+        <div class="panel-group">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" href="#view-skills">TECHNICAL SKILLS</a>
+              </h4>
+            </div>
+            <div id="view-skills" class="panel-collapse collapse">
+              <div class="panel-body skills">Java</div>
+        	  <div class="panel-body skills">Junit, TestNG</div>
+              <div class="panel-body skills">SQL (DDL, DML)</div>
+              <div class="panel-body skills">HTML, CSS</div>
+              <div class="panel-body skills">XML, JSON, XPath</div>
+              <div class="panel-body skills">REST and SOAP web services theory</div>
+              <div class="panel-body skills">Jackson, JAXB, GSON</div>
+              <div class="panel-body skills">Spring Web MVC, Spring Boot</div>
+              <div class="panel-body skills">Spring Data, Spring Security</div>
+              <div class="panel-body skills">Freemarker template</div>
+              <div class="panel-body skills">Atlassian Jira</div>
+              <div class="panel-body skills">UNIX shell</div>
+              <div class="panel-body skills">Maven</div>
+              <div class="panel-body skills">Selenium</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel-group">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" href="#view-accomplishments">MAIN ACCOMPLISHMENTS</a>
+              </h4>
+            </div>
+            <div id="view-accomplishments" class="panel-collapse collapse">
+              <div class="panel-body">As a result of my self-education I created from scratch a real and working web application. On the way I implemented my own versions of Array list and Linked list, kind of a very primitive web-server, saving data sets to different formats such as JSON, XML, CSV as well as plain binary.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel-group">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" href="#view-experience">WORK EXPERIENCE</a>
+              </h4>
+            </div>
+            <div id="view-experience" class="panel-collapse collapse">
+              <div class="panel-body job-title">ISD, (branch of SCC Soft Computer)</div>
+        	  <div class="panel-body"><b>Technical support specialist </b>	July/2013 – November/2014</div>
+              <div class="panel-body">•	Performed preventive monitoring and analysis of client system condition with special tools (e.g. scripts to gather traces/logs);</div>
+              <div class="panel-body">•	Assisted with correct system setup and consult about system functionality;</div>
+        	  <div class="panel-body">•	Created new issues in a bug-tracking system;</div>
+        	  <div class="panel-body">•	Gathered information from customers about production issues and determined their causes by evaluating and analyzing the symptoms;</div>
+        	  <div class="panel-body">•	Reproduced production/client issues in one or more testing environments;</div>
+        	  <div class="panel-body">•	Searched for information about current functionality and existing defects in the bug-tracking system;</div>
+        	  <div class="panel-body">•	Communicated with client representatives and call-center support specialists located in USA</div>
+
+              <div class="panel-body job-title">Regional information analytical medical statistic center</div>
+              <div class="panel-body"><b>Computer system engineer</b>	September/2012 – June/2013</div>
+              <div class="panel-body">•	Managed content of Health protection department web-site;</div>
+              <div class="panel-body">•	Designed reports in Power Point and created graphic items for presentations and web-site using Adobe Photoshop;</div>
+              <div class="panel-body">•	Participated in collection and consolidation of statistical information into reports;</div>
+              <div class="panel-body">•	Provided technical assistance with equipment during presentations.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel-group">
+          <div class="panel panel-default">
+        	<div class="panel-heading">
+        	  <h4 class="panel-title">
+        		<a data-toggle="collapse" href="#view-education">EDUCATION</a>
+        	  </h4>
+        	</div>
+        	<div id="view-education" class="panel-collapse collapse">
+        	  <div class="panel-body univercity">National Mining University</div>
+        	  <div class="panel-body">September/2006 – June/2007</div>
+        	  <div class="panel-body">Master degree - Computer Science</div>
+        	  <div class="panel-body univercity">National Mining University</div>
+              <div class="panel-body">September/2002 – June/2006</div>
+              <div class="panel-body">Bachelor degree - Computer Science</div>
+        	</div>
+          </div>
+        </div>
+
+        <div class="panel-group">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" href="#view-languages">LANGUAGES</a>
+                    </h4>
+                </div>
+                <div id="view-languages" class="panel-collapse collapse">
+                    <div class="panel-body">English - Fluent</div>
+        			<div class="panel-body">Polish – Fluent</div>
+        			<div class="panel-body">Russian – Native</div>
+        			<div class="panel-body">Ukrainian – Native</div>
+                </div>
+            </div>
+        </div>
+
       </div>
     </div>
     <div id="contentm" class="tab-pane fade">
