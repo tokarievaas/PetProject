@@ -1,5 +1,6 @@
 #header{
-
+    background-image: url("logo.png");
+    background-repeat: no-repeat;
 	padding: 10px 0;
 	margin-bottom: 0;
 }
@@ -25,6 +26,10 @@
     padding: 1em;
 }
 
+.panel > .panel-heading{
+    background-color: #b3daff;
+}
+
 .panel-title{
     color:#1f497d;
     font-weight: bold;
@@ -35,12 +40,13 @@
 }
 
 .job-title{
-    background-color: #b3daff;
+    background-color: #f5f5f5;
     font-weight: bold;
-    font-size: 105%;
+    font-size: 120%;
 }
 
 .univercity{
     font-weight: bold;
-    background-color: #b3daff;
+    background-color: #f5f5f5;
+    font-size: 120%;
 }
