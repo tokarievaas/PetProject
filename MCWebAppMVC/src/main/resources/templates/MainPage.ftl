@@ -38,7 +38,7 @@
     <div id="about" class="tab-pane fade in active">
 
 	  <p>
-	  Hi, I’m Aleksandra!
+	  Hi, I’m Oleksandra!
 	  </p>
 
       <p>
@@ -59,9 +59,9 @@
       </div>
       <br>
       I didn’t do this project fully myself with no help. My husband, who is a software developer, was my tutor, provided topics to learn, tasks to solve, helped me with planning, performed code review and helped me multiple times when I stuck. But still all the coding I have done myself (and really proud of it :) ). I realize that coding under guidance is not such a major part, but again I have quite a road in front of me before I become a strong independent professional.
-      If you are interested in seeing the code I’ve committed it to Github here.
+      If you are interested in seeing the code I’ve committed it to Github <a href = "https://github.com/tokarievaas/PetProject" target="_blank">here</a>.
       <br>
-      Also, if you want to see the list of technologies used in the project, <a href="#technologies" data-toggle="collapse">look inside</a>.
+      The list of technologies used in the project, <a href="#technologies" data-toggle="collapse">can be seen here>></a>.
 
       </p>
       <div id = "technologies" class="collapse">
@@ -77,83 +77,100 @@
       </div>
       <br>
       <p> Finally, a little bit about me. <br>
-      You can read my resume below as well as download a <a href = "Tokarieva_resume_java.docx">Word</a> or <a href = "Tokarieva_resume_java.docx">PDF</a> version of it.
-      This is a link to my LinkedIn Page. <br>
+      You can read my resume below as well as download a <a href = "Tokarieva_resume_java.docx">Word</a> or <a href = "Tokarieva_resume_java.pdf">PDF</a> version of it.  <br>
+      <a href = "https://www.linkedin.com/in/oleksandra-tokarieva/" target = "_blank">This is a link to my LinkedIn Page.</a> <br>
       My contacts: phone, email. <br>
       Sincerely yours, <br>
-      Aleksandra (aka Oleksandra or Sasha) Tokarieva<br>
-      <a href = "#resume" data-toggle="collapse">View my resume.</a>
+      Oleksandra Tokarieva<br>
+
+      <div class="panel panel-info">
+        <div class="panel-heading">
+            <a data-toggle="collapse" href="#resume">View my resume</a>
+        </div>
+        <div id = "resume" class="panel-body panel-collapse collapse">
+            <p style="color: black; font-size: 150%">Junior java developer with more than a year of experience in L2 technical support. Worked in a client-facing environment for over 3 years. Continuously work on self-education. Diligent and responsible.</p>
+
+            <h4 class = "section-title">TECHNICAL SKILLS</h4>
+            <table class="table table-striped">
+                <tbody>
+                  <tr>
+                    <td>Java</td>
+                    <td>Spring Web MVC, Spring Boot</td>
+                  </tr>
+                  <tr>
+                    <td>Junit, TestNG</td>
+                    <td>Spring Data, Spring Security</td>
+                  </tr>
+                  <tr>
+                    <td>SQL (DDL, DML)</td>
+                    <td>Freemarker template</td>
+                  </tr>
+                  <tr>
+                    <td>HTML, CSS</td>
+                    <td>Atlassian Jira</td>
+                  </tr>
+                  <tr>
+                    <td>XML, JSON, XPath</td>
+                    <td>UNIX shell</td>
+                  </tr>
+                  <tr>
+                    <td>REST and SOAP web services theory</td>
+                    <td>Maven</td>
+                  </tr>
+                  <tr>
+                    <td>Jackson, JAXB, GSON</td>
+                    <td>Selenium</td>
+                  </tr>
+                </tbody>
+              </table>
+
+              <h4 class = "section-title">MAIN ACCOMPLISHMENTS</h4>
+              <p>As a result of my self-education I created from scratch a real and working web application. On the way I implemented my own versions of Array list and Linked list, kind of a very primitive web-server, saving data sets to different formats such as JSON, XML, CSV as well as plain binary.</p>
+
+              <h4 class = "section-title">WORK EXPERIENCE</h4>
+              <h4>ISD, (branch of SCC Soft Computer)</h4>
+              <h5><b>Technical support specialist </b>	July/2013 – November/2014</h5>
+              <ul>
+                <li>Performed preventive monitoring and analysis of client system condition with special tools (e.g. scripts to gather traces/logs);</li>
+                <li>Assisted with correct system setup and consult about system functionality;</li>
+                <li>Created new issues in a bug-tracking system;</li>
+                <li>Gathered information from customers about production issues and determined their causes by evaluating and analyzing the symptoms;</li>
+                <li>Reproduced production/client issues in one or more testing environments;</li>
+                <li>Searched for information about current functionality and existing defects in the bug-tracking system;</li>
+                <li>Communicated with client representatives and call-center support specialists located in USA</li>
+              </ul>
+              <h4>Regional information analytical medical statistic center</h4>
+              <h5><b>Computer system engineer</b>	September/2012 – June/2013</h5>
+              <ul>
+                <li>Managed content of Health protection department web-site;</li>
+                <li>Designed reports in Power Point and created graphic items for presentations and web-site using Adobe Photoshop;</li>
+                <li>Participated in collection and consolidation of statistical information into reports;</li>
+                <li>Provided technical assistance with equipment during presentations.</li>
+              </ul>
+
+              <h4 class = "section-title">EDUCATION</h4>
+              <h4 class = "univercity">National Mining University</h4>
+              <p>September/2006 – June/2007</p>
+              <p>Master degree - Computer Science</p>
+              <h4 class = "univercity">National Mining University</h4>
+              <p>September/2002 – June/2006</p>
+              <p>Bachelor degree - Computer Science</p>
+
+              <h4 class = "section-title">LANGUAGES</h4>
+              <ul>
+                <li>English - Fluent</li>
+                <li>Polish – Fluent</li>
+                <li>Russian – Native</li>
+                <li>Ukrainian – Native</li>
+              </ul>
+
+        </div>
+      </div>
       </p>
 
       <div id = "resume" class = "collapse" style="color:#1f497d; font-family:calibri">
-        <p style="color: black; font-size: 150%">Junior java developer with more than a year of experience in L2 technical support. Worked in a client-facing environment for over 3 years. Continuously work on self-education. Diligent and responsible.</p>
 
-        <div class="panel-group">
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <h4 class="panel-title">
-                <a data-toggle="collapse" href="#view-skills">TECHNICAL SKILLS</a>
-              </h4>
-            </div>
-            <div id="view-skills" class="panel-collapse collapse">
-              <div class="panel-body skills">Java</div>
-        	  <div class="panel-body skills">Junit, TestNG</div>
-              <div class="panel-body skills">SQL (DDL, DML)</div>
-              <div class="panel-body skills">HTML, CSS</div>
-              <div class="panel-body skills">XML, JSON, XPath</div>
-              <div class="panel-body skills">REST and SOAP web services theory</div>
-              <div class="panel-body skills">Jackson, JAXB, GSON</div>
-              <div class="panel-body skills">Spring Web MVC, Spring Boot</div>
-              <div class="panel-body skills">Spring Data, Spring Security</div>
-              <div class="panel-body skills">Freemarker template</div>
-              <div class="panel-body skills">Atlassian Jira</div>
-              <div class="panel-body skills">UNIX shell</div>
-              <div class="panel-body skills">Maven</div>
-              <div class="panel-body skills">Selenium</div>
-            </div>
-          </div>
-        </div>
 
-        <div class="panel-group">
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <h4 class="panel-title">
-                <a data-toggle="collapse" href="#view-accomplishments">MAIN ACCOMPLISHMENTS</a>
-              </h4>
-            </div>
-            <div id="view-accomplishments" class="panel-collapse collapse">
-              <div class="panel-body">As a result of my self-education I created from scratch a real and working web application. On the way I implemented my own versions of Array list and Linked list, kind of a very primitive web-server, saving data sets to different formats such as JSON, XML, CSV as well as plain binary.</div>
-            </div>
-          </div>
-        </div>
-
-        <div class="panel-group">
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <h4 class="panel-title">
-                <a data-toggle="collapse" href="#view-experience">WORK EXPERIENCE</a>
-              </h4>
-            </div>
-            <div id="view-experience" class="panel-collapse collapse">
-              <div class="panel-body job-title">ISD, (branch of SCC Soft Computer)</div>
-        	  <div class="panel-body"><b>Technical support specialist </b>	July/2013 – November/2014</div>
-              <div class="panel-body">•	Performed preventive monitoring and analysis of client system condition with special tools (e.g. scripts to gather traces/logs);</div>
-              <div class="panel-body">•	Assisted with correct system setup and consult about system functionality;</div>
-        	  <div class="panel-body">•	Created new issues in a bug-tracking system;</div>
-        	  <div class="panel-body">•	Gathered information from customers about production issues and determined their causes by evaluating and analyzing the symptoms;</div>
-        	  <div class="panel-body">•	Reproduced production/client issues in one or more testing environments;</div>
-        	  <div class="panel-body">•	Searched for information about current functionality and existing defects in the bug-tracking system;</div>
-        	  <div class="panel-body">•	Communicated with client representatives and call-center support specialists located in USA</div>
-
-              <div class="panel-body job-title">Regional information analytical medical statistic center</div>
-              <div class="panel-body"><b>Computer system engineer</b>	September/2012 – June/2013</div>
-              <div class="panel-body">•	Managed content of Health protection department web-site;</div>
-              <div class="panel-body">•	Designed reports in Power Point and created graphic items for presentations and web-site using Adobe Photoshop;</div>
-              <div class="panel-body">•	Participated in collection and consolidation of statistical information into reports;</div>
-              <div class="panel-body">•	Provided technical assistance with equipment during presentations.</div>
-            </div>
-          </div>
-        </div>
 
         <div class="panel-group">
           <div class="panel panel-default">

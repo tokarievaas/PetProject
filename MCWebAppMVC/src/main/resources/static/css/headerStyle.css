@@ -26,27 +26,10 @@
     padding: 1em;
 }
 
-.panel > .panel-heading{
-    background-color: #b3daff;
-}
-
-.panel-title{
-    color:#1f497d;
+.section-title{
     font-weight: bold;
+    color: #1f497d;
 }
-
-.skills{
-    padding: 5px;
-}
-
-.job-title{
-    background-color: #f5f5f5;
-    font-weight: bold;
-    font-size: 120%;
-}
-
 .univercity{
-    font-weight: bold;
-    background-color: #f5f5f5;
-    font-size: 120%;
+    color: #0099cc;
 }
