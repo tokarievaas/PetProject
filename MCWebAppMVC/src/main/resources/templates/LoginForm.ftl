@@ -9,7 +9,9 @@
 	<div class = "page-header">
 		<h1>Please, enter your login<h1>
 	</div>
-    ${error!}
+	<font color="red">
+        ${error!}
+    </font>
 	<form action = "/media_coll/login" method = "post">
 	  <div class="form-group">
 		<label for="login">Login:</label>
