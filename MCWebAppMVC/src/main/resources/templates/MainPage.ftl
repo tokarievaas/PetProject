@@ -47,9 +47,9 @@
       <br>
       The main idea behind this project is to create a portal where people would be able to create and maintain collections of their favorite media titles, such as movies or music. Only titles and some related data, not content.
       <br>
-      Of course, at this stage I don’t feel that I have enough knowledge and/or time to create something really amazing. This is just a Proof Of Concept with very limited functionality.
+      Of course, at this stage I don’t feel that I have enough knowledge and/or time to create something really amazing yet.
       <br>
-      So, the limited functionality allows:
+      So, the current functionality allows:
       <br>
       <div id = "functionflity">
         <ol>
@@ -58,7 +58,6 @@
         </ol>
       </div>
       <br>
-      I didn’t do this project fully myself with no help. My husband, who is a software developer, was my tutor, provided topics to learn, tasks to solve, helped me with planning, performed code review and helped me multiple times when I stuck. But still all the coding I have done myself (and really proud of it :) ). I realize that coding under guidance is not such a major part, but again I have quite a road in front of me before I become a strong independent professional.
       If you are interested in seeing the code I’ve committed it to Github <a href = "https://github.com/tokarievaas/PetProject" target="_blank">here</a>.
       <br>
       The list of technologies used in the project, <a href="#technologies" data-toggle="collapse">can be seen here>></a>.
@@ -79,7 +78,7 @@
       <p> Finally, a little bit about me. <br>
       You can read my resume below as well as download a <a href = "Tokarieva_resume_java.docx">Word</a> or <a href = "Tokarieva_resume_java.pdf">PDF</a> version of it.  <br>
       <a href = "https://www.linkedin.com/in/oleksandra-tokarieva/" target = "_blank">This is a link to my LinkedIn Page.</a> <br>
-      My contacts: phone, email. <br>
+      My contacts: phone - +18622958923, email - tokarevaas@gmail.com. <br>
       Sincerely yours, <br>
       Oleksandra Tokarieva<br>
 
