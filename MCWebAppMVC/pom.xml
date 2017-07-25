@@ -27,7 +27,7 @@
 
         <dependency>
             <groupId>com.tokarieva</groupId>
-            <artifactId>media-collection-core</artifactId>
+            <artifactId>media_collection_core</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
 

@@ -1,6 +1,6 @@
 package com.tokarieva.controller;
 
-import com.tokarieva.User;
+import com.tokarieva.domain.User;
 import com.tokarieva.service.SecurityService;
 import com.tokarieva.service.UserService;
 import com.tokarieva.service.UserValidator;

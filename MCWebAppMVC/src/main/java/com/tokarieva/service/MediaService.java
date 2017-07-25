@@ -1,7 +1,7 @@
 package com.tokarieva.service;
 
-import com.tokarieva.User;
 import com.tokarieva.domain.Media;
+import com.tokarieva.domain.User;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
 package com.tokarieva.service;
 
-import com.tokarieva.User;
+import com.tokarieva.domain.User;
 import com.tokarieva.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;

@@ -1,6 +1,6 @@
 package com.tokarieva.service;
 
-import com.tokarieva.User;
+import com.tokarieva.domain.User;
 
 public interface UserService {
     void save(User user);

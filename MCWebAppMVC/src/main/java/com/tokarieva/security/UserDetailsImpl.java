@@ -1,6 +1,6 @@
 package com.tokarieva.security;
 
-import com.tokarieva.User;
+import com.tokarieva.domain.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

@@ -1,6 +1,6 @@
 package com.tokarieva.service;
 
-import com.tokarieva.User;
+import com.tokarieva.domain.User;
 import com.tokarieva.security.UserDetailsImpl;
 import com.tokarieva.util.DefaultUserCache;
 import org.slf4j.Logger;

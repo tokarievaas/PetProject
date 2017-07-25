@@ -57,6 +57,7 @@
             <li>Register and log in to be able to start maintaining your own collections: to add, modify and delete new items.</li>
         </ol>
       </div>
+      <p>The implementation of REST Web Service is available by <a href = "/media_coll_json" target="_blank"> link</a> – (In current version it returns default user collection) </p>
       <br>
       If you are interested in seeing the code I’ve committed it to Github <a href = "https://github.com/tokarievaas/PetProject" target="_blank">here</a>.
       <br>
@@ -87,7 +88,8 @@
             <a data-toggle="collapse" href="#resume">View my resume</a>
         </div>
         <div id = "resume" class="panel-body panel-collapse collapse">
-            <p style="color: black; font-size: 150%">Junior java developer with more than a year of experience in L2 technical support. Worked in a client-facing environment for over 3 years. Continuously work on self-education. Diligent and responsible.</p>
+            <p style="color: black; font-size: 150%">Strong knowledge of Java core and basic data structures, code debugging experience, knowledge and compliance with Clean Code concepts. Good knowledge of SQL, HTML, CSS, XML. Experience and basic understanding of REST Web Services.</br>
+                                                     Great inner motivation to quickly learn and master new technologies to become successful in the new field and make contribution to real projects.</p>
 
             <h4 class = "section-title">TECHNICAL SKILLS</h4>
             <table class="table table-striped">
@@ -124,27 +126,28 @@
               </table>
 
               <h4 class = "section-title">MAIN ACCOMPLISHMENTS</h4>
-              <p>As a result of my self-education I created from scratch a real and working web application. On the way I implemented my own versions of Array list and Linked list, kind of a very primitive web-server, saving data sets to different formats such as JSON, XML, CSV as well as plain binary.</p>
+              <p>
+                <ul>
+                    <li>Greatly increased application performance by introducing cache for frequently used objects;</li>
+                    <li>Promoted necessity of redesigning corporate web-site to improve comprehensibility and access to most important information;</li>
+                    <li>Reduced by 80% time for report creation by automating the process of gathering and consolidation of data.</li>
+                </ul>
+              </p>
 
               <h4 class = "section-title">WORK EXPERIENCE</h4>
               <h4>ISD, (branch of SCC Soft Computer)</h4>
               <h5><b>Technical support specialist </b>	July/2013 – November/2014</h5>
               <ul>
-                <li>Performed preventive monitoring and analysis of client system condition with special tools (e.g. scripts to gather traces/logs);</li>
-                <li>Assisted with correct system setup and consult about system functionality;</li>
-                <li>Created new issues in a bug-tracking system;</li>
-                <li>Gathered information from customers about production issues and determined their causes by evaluating and analyzing the symptoms;</li>
-                <li>Reproduced production/client issues in one or more testing environments;</li>
-                <li>Searched for information about current functionality and existing defects in the bug-tracking system;</li>
-                <li>Communicated with client representatives and call-center support specialists located in USA</li>
+                <li>Investigated client issues in development environment and provided fixes for them;</li>
+                <li>Performed preventive monitoring and log analysis of client system condition with dedicated scripts;</li>
+                <li>Assisted with application deployment and configuration.</li>
               </ul>
               <h4>Regional information analytical medical statistic center</h4>
               <h5><b>Computer system engineer</b>	September/2012 – June/2013</h5>
               <ul>
-                <li>Managed content of Health protection department web-site;</li>
-                <li>Designed reports in Power Point and created graphic items for presentations and web-site using Adobe Photoshop;</li>
-                <li>Participated in collection and consolidation of statistical information into reports;</li>
-                <li>Provided technical assistance with equipment during presentations.</li>
+                <li>Designed reports in Power Point and created graphic elements using Adobe Photoshop;</li>
+                <li>Maintained Health department web site;</li>
+                <li>Implemented automated collection and consolidation of statistical information into reports.</li>
               </ul>
 
               <h4 class = "section-title">EDUCATION</h4>
@@ -154,6 +157,10 @@
               <h4 class = "univercity">National Mining University</h4>
               <p>September/2002 – June/2006</p>
               <p>Bachelor degree - Computer Science</p>
+
+              <h4 class = "section-title">ONLINE COURSES</h4>
+              <p><b>Duke University, Coursera</b> – Java Programming: Arrays, Lists, and Structured Data</p>
+              <p><b>University of California, Coursera </b> – Learning How to Learn: Powerful mental tools to help you master tough subjects</p>
 
               <h4 class = "section-title">LANGUAGES</h4>
               <ul>
