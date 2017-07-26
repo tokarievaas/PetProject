@@ -4,4 +4,5 @@ The main idea behind this project is to create a portal where people would be ab
 So, the current functionality allows: 
   1.	Unregistered users to view the page about me and the media collection of the Demo user.
   2.	Register and log in to be able to start maintaining your own collections: to add, modify and delete new items.
+
 The implementation of REST Service is available by link – (In current version it returns default user collection)
