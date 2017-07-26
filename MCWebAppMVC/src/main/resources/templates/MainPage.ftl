@@ -45,9 +45,8 @@
       I’ve always been quite a fan of programming, but somehow my career took a different path at first. And then my husband received a job offer abroad and I’ve got some free time while we were moving countries. So I decided to become a software developer and this little project is a result of my study and supposed to prove that I really can do IT.
       <br>
       <br>
-      The main idea behind this project is to create a portal where people would be able to create and maintain collections of their favorite media titles, such as movies or music. Only titles and some related data, not content.
-      <br>
-      Of course, at this stage I don’t feel that I have enough knowledge and/or time to create something really amazing yet.
+      The main idea behind this project is to create a portal where people would be able to create and maintain collections of their favorite media titles, such as movies they watched or music they listened to. This would allow them to easily recommend certain content to somebody without struggling to remember the name of the movie (or band or singer). Only titles and some related data can be added, not content.
+
       <br>
       So, the current functionality allows:
       <br>

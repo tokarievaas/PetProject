@@ -34,7 +34,7 @@
 		<div class = "form-group">
 			<label class = "control-label col-sm-2 text-right" for = "rating">Rating:</label>
 			<div class = "col-sm-10">
-				<input type = "text" class = "form-control" id = "rating" name = "rating" placeholder = "Enter rating from 1 to 5 in format X, e.g.: 4">
+				<input type = "text" class = "form-control" id = "rating" name = "rating" maxlength = "1" placeholder = "Enter rating from 1 to 5 in format X, e.g.: 4">
 			</div>
 		</div>
         <#if title == 'Movie'>
