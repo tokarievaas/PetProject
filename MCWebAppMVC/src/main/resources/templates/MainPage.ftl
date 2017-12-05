@@ -87,8 +87,30 @@
             <a data-toggle="collapse" href="#resume">View my resume</a>
         </div>
         <div id = "resume" class="panel-body panel-collapse collapse">
-            <p style="color: black; font-size: 150%">Strong knowledge of Java core and basic data structures, code debugging experience, knowledge and compliance with Clean Code concepts. Good knowledge of SQL, HTML, CSS, XML. Experience and basic understanding of REST Web Services.</br>
-                                                     Great inner motivation to quickly learn and master new technologies to become successful in the new field and make contribution to real projects.</p>
+            <h4 class = "section-title">SUMMARY</h4>
+            <p style="color: black">
+                <ul>
+                    <li>Link to Github – https://github.com/tokarievaas ;</li>
+                    <li>Over 2 years of IT experience;</li>
+                    <li>Strong knowledge of Java core: basic data structures such as Lists, Sets and Maps, Exception handling, IO, Multithreading;</li>
+
+                    <li>Knowledge of common algorithms (Sorting algorithms, QuickSearch etc), algorithm performance analysis and Big O notation;</li>
+                    <li>Proficient in Spring Framework (Core, Spring Data, WebMVC, Security) and Spring Boot, SQL, JDBC;</li>
+                    <li>Good knowledge of web technologies: Servlets, HTML, FreeMarker, CSS, JavaScript, Bootstrap, XML and JSON;</li>
+                    <li>Experience in Linux / UNIX and Shell Scripting;</li>
+                    <li>Knowledge and compliance with Clean Code concepts;</li>
+                    <li>Good knowledge of OOP Principles, Design Patterns and Design Principles (SOLID and others);</li>
+                    <li>Experience in Unit testing with JUnit and TestNG frameworks, functional testing and automated testing with Selenium WebDriver;</li>
+                    <li>Basic understanding and experience in REST Web Services;</li>
+                    <li>Experience with GIT version control system and GitHub;</li>
+                    <li>Experience with bug tracking tools;</li>
+                    <li>Worked using Agile Methodology;</li>
+                    <li>Code debugging, troubleshooting and bug fixing experience;</li>
+                    <li>Worked with Intellij Idea IDE;</li>
+                    <li>Experience with Tomcat servlet container;</li>
+                    <li>Good analytical thinking, problem solving skills. Team player.</li>
+                </ul>
+            </p>
 
             <h4 class = "section-title">TECHNICAL SKILLS</h4>
             <table class="table table-striped">
@@ -134,19 +156,62 @@
               </p>
 
               <h4 class = "section-title">WORK EXPERIENCE</h4>
+              <h4>StartUp “Favorite Media Collection”</h4>
+              <h5><b>Software developer </b>	Dec/2016 – July/2017/2014</h5>
+              <p>
+                Developed from scratch a web portal that would allow users to create and maintain catalogs of their favorite media such as movies or TV shows, songs, music albums, performers etc.
+                Then they would be able to share their experience, feedback and preferences with other people in network. This is a multi-module solution and backend modules include REST API,
+                so it is possible to reuse only the engine and build any custom UI.  <br>
+                Code can be found on Github – https://github.com/tokarievaas/PetProject
+              </p>
+              <p>Responsibilities: <br>
+                <ul>
+                    <li>Gathered initial requirements;</li>
+                    <li>Developed all layers (DB, middle tier, web GUI) of web portal application:</li>
+                    <li>Developed backend using Spring Boot, Spring WebMVC, Spring Security, Spring Data (JPA);</li>
+                        <ul>
+                            <li>Created Web interface using Freemarker templates, Bootstrap framework, CSS and HTML;</li>
+                            <li>used H2 SQL as database;</li>
+                        </ul>
+                    </li>
+                    <li>Implemented data export in a number of formats: binary, XML, JSON, CSV;</li>
+                    <li>Performed code refactoring;</li>
+                    <li>Investigated software issues, performed troubleshooting and fixed bugs;</li>
+                    <li>Ensured code coverage with unit tests using TestNG;</li>
+                    <li>Built project with Maven, controlled versions with Git.</li>
+
+                </ul>
+              </p>
               <h4>ISD, (branch of SCC Soft Computer)</h4>
               <h5><b>Technical support specialist </b>	July/2013 – November/2014</h5>
+              <p>
+                Provided technical support for microbiology and clinical laboratory software: SoftLab and SoftMic.
+                SoftLab is a premier LIS (Laboratory Information System) that helps clients reach top productivity in the laboratory environment.
+                It provides healthcare facilities with full multisite consolidation, flexible patient and management reporting, specimen tracking, and more.
+                More than a sophisticated workflow management tool, SoftMic's advanced system architecture allows real-time patient results to be readily available throughout
+                the enterprise, improving the quality and delivery time of patient care.
+              </p>
               <ul>
                 <li>Investigated client issues in development environment and provided fixes for them;</li>
-                <li>Performed preventive monitoring and log analysis of client system condition with dedicated scripts;</li>
+                <li>Performed preventive monitoring and log analysis of client system condition with dedicated scripts via Unix shell;</li>
                 <li>Assisted with application deployment and configuration.</li>
+                <li>Created new issues in a bug-tracking system;</li>
+                <li>Gathered information from customers about production issues and determined their causes by evaluating and analyzing the symptoms;</li>
+                <li>Reproduced production/client issues in one or more testing environments;</li>
+                <li>Searched for information about current functionality and existing defects in the bug-tracking system;</li>
+                <li>Communicated with client representatives with respect to software issues.</li>
               </ul>
               <h4>Regional information analytical medical statistic center</h4>
               <h5><b>Computer system engineer</b>	September/2012 – June/2013</h5>
+              <p>
+                Supported regional Health Statistics department’s IT infrastructure which included such activities as maintenance of the department’s web site,
+                statistical software maintenance in central office and regional locations, assistance in software and hardware audit in central office.
+              </p>
               <ul>
-                <li>Designed reports in Power Point and created graphic elements using Adobe Photoshop;</li>
-                <li>Maintained Health department web site;</li>
+                <li>Maintained Health department web site – performed regular content updates and assisted with software updates;</li>
+                <li>Created software update documentation and provided technical support to regional IT personnel</li>
                 <li>Implemented automated collection and consolidation of statistical information into reports.</li>
+                <li>Designed reports in Power Point and created graphic elements using Adobe Photoshop;</li>
               </ul>
 
               <h4 class = "section-title">EDUCATION</h4>
@@ -160,6 +225,7 @@
               <h4 class = "section-title">ONLINE COURSES</h4>
               <p><b>Duke University, Coursera</b> – Java Programming: Arrays, Lists, and Structured Data</p>
               <p><b>University of California, Coursera </b> – Learning How to Learn: Powerful mental tools to help you master tough subjects</p>
+              <p><b>Duke University, Coursera </b> – Programming Foundations with JavaScript, HTML and CSS;</p>
 
               <h4 class = "section-title">LANGUAGES</h4>
               <ul>
