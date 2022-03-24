@@ -1,1 +1,1 @@
-web: java -jar MCWebAppMVC/target/MC_MVC.jar
+web: java -Dserver.port=5000 -jar MCWebAppMVC/target/MC_MVC.jar
