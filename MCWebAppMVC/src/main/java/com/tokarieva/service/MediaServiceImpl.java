@@ -49,7 +49,7 @@ public class MediaServiceImpl implements MediaService {
 
     @Override
     public void delete(int id) {
-        mediaRepository.delete(id);
+        mediaRepository.deleteById(id);
     }
 
 

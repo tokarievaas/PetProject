@@ -23,7 +23,7 @@ public class DefaultUserCache {
 
     public User getDefaultUser() {
         if (defaultUser == null){
-            defaultUser = userRepository.findOne(DEFAULT_USER_ID);
+            defaultUser = userRepository.findById(DEFAULT_USER_ID).get();
         }
         return defaultUser;
     }
