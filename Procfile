@@ -1,0 +1,1 @@
+web: java -jar MCWebAppMVC/target/MC_MVC.jar
