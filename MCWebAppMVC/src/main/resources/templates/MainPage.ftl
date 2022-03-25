@@ -38,11 +38,11 @@
     <div id="about" class="tab-pane fade in active">
 
 	  <p>
-	  Hi, I’m Oleksandra!
+	  Hi, I'm Oleksandra!
 	  </p>
 
       <p>
-      I’ve always been quite a fan of programming, but somehow my career took a different path at first. And then my husband received a job offer abroad and I’ve got some free time while we were moving countries. So I decided to become a software developer and this little project is a result of my study and supposed to prove that I really can do IT.
+      I've always been quite a fan of programming, but somehow my career took a different path at first. And then my husband received a job offer abroad and I’ve got some free time while we were moving countries. So I decided to become a software developer and this little project is a result of my study and supposed to prove that I really can do IT.
       <br>
       <br>
       The main idea behind this project is to create a portal where people would be able to create and maintain collections of their favorite media titles, such as movies they watched or music they listened to. This would allow them to easily recommend certain content to somebody without struggling to remember the name of the movie (or band or singer). Only titles and some related data can be added, not content.
@@ -87,153 +87,70 @@
             <a data-toggle="collapse" href="#resume">View my resume</a>
         </div>
         <div id = "resume" class="panel-body panel-collapse collapse">
-            <h4 class = "section-title">SUMMARY</h4>
             <p style="color: black">
-                <ul>
-                    <li>Link to Github – https://github.com/tokarievaas ;</li>
-                    <li>Over 2 years of IT experience;</li>
-                    <li>Strong knowledge of Java core: basic data structures such as Lists, Sets and Maps, Exception handling, IO, Multithreading;</li>
-
-                    <li>Knowledge of common algorithms (Sorting algorithms, QuickSearch etc), algorithm performance analysis and Big O notation;</li>
-                    <li>Proficient in Spring Framework (Core, Spring Data, WebMVC, Security) and Spring Boot, SQL, JDBC;</li>
-                    <li>Good knowledge of web technologies: Servlets, HTML, FreeMarker, CSS, JavaScript, Bootstrap, XML and JSON;</li>
-                    <li>Experience in Linux / UNIX and Shell Scripting;</li>
-                    <li>Knowledge and compliance with Clean Code concepts;</li>
-                    <li>Good knowledge of OOP Principles, Design Patterns and Design Principles (SOLID and others);</li>
-                    <li>Experience in Unit testing with JUnit and TestNG frameworks, functional testing and automated testing with Selenium WebDriver;</li>
-                    <li>Basic understanding and experience in REST Web Services;</li>
-                    <li>Experience with GIT version control system and GitHub;</li>
-                    <li>Experience with bug tracking tools;</li>
-                    <li>Worked using Agile Methodology;</li>
-                    <li>Code debugging, troubleshooting and bug fixing experience;</li>
-                    <li>Worked with Intellij Idea IDE;</li>
-                    <li>Experience with Tomcat servlet container;</li>
-                    <li>Good analytical thinking, problem solving skills. Team player.</li>
-                </ul>
+                <b>Bio:</b> 7 months of a full-time SWE experience | a web portal developed from scratch |never ever give up.
             </p>
 
-            <h4 class = "section-title">TECHNICAL SKILLS</h4>
-            <table class="table table-striped">
-                <tbody>
-                  <tr>
-                    <td>Java</td>
-                    <td>Spring Web MVC, Spring Boot</td>
-                  </tr>
-                  <tr>
-                    <td>Junit, TestNG</td>
-                    <td>Spring Data, Spring Security</td>
-                  </tr>
-                  <tr>
-                    <td>SQL (DDL, DML)</td>
-                    <td>Freemarker template</td>
-                  </tr>
-                  <tr>
-                    <td>HTML, CSS</td>
-                    <td>Atlassian Jira</td>
-                  </tr>
-                  <tr>
-                    <td>XML, JSON, XPath</td>
-                    <td>UNIX shell</td>
-                  </tr>
-                  <tr>
-                    <td>REST and SOAP web services theory</td>
-                    <td>Maven</td>
-                  </tr>
-                  <tr>
-                    <td>Jackson, JAXB, GSON</td>
-                    <td>Selenium</td>
-                  </tr>
-                </tbody>
-              </table>
-
-              <h4 class = "section-title">MAIN ACCOMPLISHMENTS</h4>
+              <h5 class = "section-title">WORK EXPERIENCE</h5>
+              <h5><b>Sunbird Software |Java Developer (January/2018 &mdash; July/2018, 7 mos)</b>	</h5>
               <p>
+                Sunbird was ranked #1 Data Center Infrastructure Management solution in Data Centre Magazine 2020. Since 2007, Sunbird products are being used globally by 1,650+ customers across hundreds of thousands of racks, managing millions of assets, and monitoring billions of data points.
+                I designed and developed components of the Change Management system which provides tools for workflow automation. The solution enables to generate change requests, automate device moves, and maintain a complete audit trail of requests and work orders for compliance.
+              </p>
                 <ul>
-                    <li>Greatly increased application performance by introducing cache for frequently used objects;</li>
-                    <li>Promoted necessity of redesigning corporate web-site to improve comprehensibility and access to most important information;</li>
-                    <li>Reduced by 80% time for report creation by automating the process of gathering and consolidation of data.</li>
+                    <li>Developed several backend features for REST service, ~5 new tab views, and more</li>
+                    <li>Prepared code refactoring consisting of 60 classes</li>
+                    <li>Fixed ~50 bugs</li>
+                    <li>Improved on-boarding manual (added more specifics on how to set up working environment, useful for junior specialists)</li>
+                    <li><b>Stack:</b> Java, PostgreSQL</li>
                 </ul>
               </p>
-
-              <h4 class = "section-title">WORK EXPERIENCE</h4>
-              <h4>StartUp “Favorite Media Collection”</h4>
-              <h5><b>Software developer </b>	Dec/2016 – July/2017/2014</h5>
+              <h5><b>ISD, (branch of SCC Soft Computer) |Technical support specialist (July/2013 &mdash; November/2014, 1 yr. 5 mos.) </b></h5>
               <p>
-                Developed from scratch a web portal that would allow users to create and maintain catalogs of their favorite media such as movies or TV shows, songs, music albums, performers etc.
-                Then they would be able to share their experience, feedback and preferences with other people in network. This is a multi-module solution and backend modules include REST API,
-                so it is possible to reuse only the engine and build any custom UI.  <br>
-                Code can be found on Github – https://github.com/tokarievaas/PetProject
-              </p>
-              <p>Responsibilities: <br>
-                <ul>
-                    <li>Gathered initial requirements;</li>
-                    <li>Developed all layers (DB, middle tier, web GUI) of web portal application:</li>
-                    <li>Developed backend using Spring Boot, Spring WebMVC, Spring Security, Spring Data (JPA);</li>
-                        <ul>
-                            <li>Created Web interface using Freemarker templates, Bootstrap framework, CSS and HTML;</li>
-                            <li>used H2 SQL as database;</li>
-                        </ul>
-                    </li>
-                    <li>Implemented data export in a number of formats: binary, XML, JSON, CSV;</li>
-                    <li>Performed code refactoring;</li>
-                    <li>Investigated software issues, performed troubleshooting and fixed bugs;</li>
-                    <li>Ensured code coverage with unit tests using TestNG;</li>
-                    <li>Built project with Maven, controlled versions with Git.</li>
-
-                </ul>
-              </p>
-              <h4>ISD, (branch of SCC Soft Computer)</h4>
-              <h5><b>Technical support specialist </b>	July/2013 – November/2014</h5>
-              <p>
-                Provided technical support for microbiology and clinical laboratory software: SoftLab and SoftMic.
-                SoftLab is a premier LIS (Laboratory Information System) that helps clients reach top productivity in the laboratory environment.
-                It provides healthcare facilities with full multisite consolidation, flexible patient and management reporting, specimen tracking, and more.
-                More than a sophisticated workflow management tool, SoftMic's advanced system architecture allows real-time patient results to be readily available throughout
-                the enterprise, improving the quality and delivery time of patient care.
+                SCC Soft Computer has been a laboratory information systems (LIS) provider since 1979. I provided technical support for microbiology and clinical laboratory software: SoftLab and SoftMic.
               </p>
               <ul>
-                <li>Investigated client issues in development environment and provided fixes for them;</li>
-                <li>Performed preventive monitoring and log analysis of client system condition with dedicated scripts via Unix shell;</li>
-                <li>Assisted with application deployment and configuration.</li>
-                <li>Created new issues in a bug-tracking system;</li>
-                <li>Gathered information from customers about production issues and determined their causes by evaluating and analyzing the symptoms;</li>
-                <li>Reproduced production/client issues in one or more testing environments;</li>
-                <li>Searched for information about current functionality and existing defects in the bug-tracking system;</li>
-                <li>Communicated with client representatives with respect to software issues.</li>
+                <li>Investigated client issues, performed preventive monitoring and log analysis of client system condition with dedicated scripts</li>
+                <li><b>Stack:</b> UNIX shell</li>
               </ul>
-              <h4>Regional information analytical medical statistic center</h4>
-              <h5><b>Computer system engineer</b>	September/2012 – June/2013</h5>
+              <h5><b>Regional information analytical medical statistic center | Computer system engineer (September/2012 &mdash; June/2013, 9 mos)</b>	September/2012 – June/2013</h5>
               <p>
-                Supported regional Health Statistics department’s IT infrastructure which included such activities as maintenance of the department’s web site,
-                statistical software maintenance in central office and regional locations, assistance in software and hardware audit in central office.
+                Supported regional Health Statistics department’s IT infrastructure which included such activities as maintenance of the department’s website, statistical software maintenance in central office and regional locations, assistance in software and hardware audit in central office.
               </p>
               <ul>
-                <li>Maintained Health department web site – performed regular content updates and assisted with software updates;</li>
-                <li>Created software update documentation and provided technical support to regional IT personnel</li>
-                <li>Implemented automated collection and consolidation of statistical information into reports.</li>
-                <li>Designed reports in Power Point and created graphic elements using Adobe Photoshop;</li>
+                <li>Maintained Health department website, implemented automated collection and consolidation of statistical information into reports</li>
               </ul>
 
               <h4 class = "section-title">EDUCATION</h4>
-              <h4 class = "univercity">National Mining University</h4>
-              <p>September/2006 – June/2007</p>
-              <p>Master degree - Computer Science</p>
-              <h4 class = "univercity">National Mining University</h4>
-              <p>September/2002 – June/2006</p>
-              <p>Bachelor degree - Computer Science</p>
+              <p><b>Master's Degree in Computer Science | National Mining University (Dnipro, 2006 &mdash; 2007)</b></p>
+              <p><b>Bachelor’s Degree in Computer Science | National Mining University (Dnipro, 2002 &mdash; 2006)</b></p>
 
-              <h4 class = "section-title">ONLINE COURSES</h4>
-              <p><b>Duke University, Coursera</b> – Java Programming: Arrays, Lists, and Structured Data</p>
-              <p><b>University of California, Coursera </b> – Learning How to Learn: Powerful mental tools to help you master tough subjects</p>
-              <p><b>Duke University, Coursera </b> – Programming Foundations with JavaScript, HTML and CSS;</p>
+              <h5 class = "section-title">ONLINE COURSES</h5>
+              <ul>
+                <li>Udacity &mdash; Data Structures & Algorithms in Python (2021)</li>
+                <li>Udacity &mdash; Introduction to Python Programming (2021)</li>
+                <li>Duke University, Coursera &mdash; Java Programming: Arrays, Lists, and Structured Data</li>
+                <li>University of California, Coursera &mdash; Learning How to Learn: Powerful mental tools to help you master tough subjects</li>
+                <li>Duke University, Coursera &mdash; Programming Foundations with JavaScript, HTML and CSS</li>
 
-              <h4 class = "section-title">LANGUAGES</h4>
+              </ul>
+               <h5 class = "section-title">PROJECT</h5>
+               <h5><b>"Favorite Media Collection" | Pet project (December 2016 &mdash; July 2017, 8 mos) </b></h5>
+
+              <h5 class = "section-title">LANGUAGES</h5>
               <ul>
                 <li>English - Fluent</li>
-                <li>Polish – Fluent</li>
-                <li>Russian – Native</li>
-                <li>Ukrainian – Native</li>
+                <li>Russian - Native</li>
+                <li>Ukrainian - Native</li>
               </ul>
+
+              <h4 class = "section-title">HOBBIES</h4>
+                <ul>
+                  <li>Bicycling</li>
+                  <li>Snowboarding</li>
+                  <li>Lots of other outdoor fun</li>
+                  <li>Photography</li>
+                </ul>
 
         </div>
       </div>
